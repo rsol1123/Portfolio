@@ -22,3 +22,6 @@ This installs the required dependencies
 To run the React project.
 $ npm start
   
+  
+To visit the AWS hosted version,
+please visit www.rupeshsolanki.com
