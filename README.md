@@ -7,19 +7,18 @@ Hello,
   on AWS.
   
   
-  To run the porfolio:
-  
-  Clone the repsoitory and use
-  VSCode.
-  
-  in a terminal window, type
-  
-  npm install
-  
-  
-  then type
-  
-  npm start
-  
-  and it should run
+ To run the porfolio open your terminal and then type
+
+$ git clone github.com/rsol1123/portfolio
+
+This clones the repo
+
+cd into the new folder and type
+
+$ npm install
+
+This installs the required dependencies
+
+To run the React project.
+$ npm start
   
